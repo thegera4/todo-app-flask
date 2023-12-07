@@ -1,2 +1,5 @@
 mysql-connector-python~=8.2.0
 python-dotenv~=1.0.0
+flask~=3.0.0
+click~=8.1.7
+werkzeug~=3.0.1
